@@ -1,2 +1,1 @@
-# Cookie-Music
-start with index.html
+strt from getstarted.html
